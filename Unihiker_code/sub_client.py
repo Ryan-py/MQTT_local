@@ -5,7 +5,7 @@ import paho.mqtt.client as mqtt
 gui=GUI()
 
 # Replace these values with your MQTT broker information
-mqtt_broker = "192.168.100.5"
+mqtt_broker = "192.168.xxx.x"
 mqtt_port = 1883
 mqtt_topic = "nums/val"
 
